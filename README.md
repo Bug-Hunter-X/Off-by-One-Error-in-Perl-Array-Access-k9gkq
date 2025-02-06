@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a common off-by-one error in array access. The script attempts to iterate through an array and print each element's value and index. Due to an incorrect loop condition, the script accesses an index beyond the bounds of the array, leading to unpredictable behavior. A corrected version of the script is provided in bugSolution.pl.
